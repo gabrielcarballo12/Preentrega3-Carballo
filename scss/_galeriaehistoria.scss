@@ -1,0 +1,70 @@
+@media (min-width: 768px) {
+    #carouselExample {
+     width: 80%;
+     margin: 0 auto;
+    
+    }
+    .carousel-item img{
+     height: 390px;
+     margin-top: $espacio-titulos;
+    }
+  }
+  h1 {
+    margin-top: $espacio-titulos;
+  }
+ 
+.section__1 {
+  margin-top: $espacio-titulos;
+}
+@media (min-width: 1200px) {
+    #carouselExample {
+     width: 70%;
+     margin: 0 auto;
+    
+    }
+    .carousel-item img{
+     height: 440px;
+     margin-top: $espacio-titulos;
+    }
+  }
+  h1 {
+    margin-top: $espacio-titulos;
+  }
+ 
+
+
+
+@media (min-width: 768px) {
+
+
+.section__1 {
+  margin-top: $espacio-titulos;
+  width: 76%;
+  margin: 0 auto;
+}
+
+
+}
+
+@media (min-width: 768px) {
+
+
+.section__2 {
+  margin-top: $espacio-titulos;
+  width: 76%;
+  margin: 0 auto;
+}
+
+
+}
+@media (min-width: 1200px) {
+
+
+.section__2 {
+  margin-top: $espacio-titulos;
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+}
